@@ -1,2 +1,0 @@
-# codesofttask
-task of internship 
